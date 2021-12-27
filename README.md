@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love visual media. Movies, TV shows, comics, anime, fine and abstract art, I love it all!
 
 
-### Langauges, Frameworks, Libraries, and Tools:
+### Languages, Frameworks, Libraries, and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
@@ -58,3 +58,7 @@
 ---
 <img align="left" alt="Pwaters90 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pwaters90&show_icons=true&hide_border=true&count_private=true&theme=radical">
 <img align="left" alt="Pwaters Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pwaters90&langs_count=8&theme=radical&hide_border=true&count_private=true">
+
+<img align="left" alt="Pwaters90 Github streak" src="http://github-readme-streak-stats.herokuapp.com?user=Pwaters90&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D">
+
+

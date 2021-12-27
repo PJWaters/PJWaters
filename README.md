@@ -8,8 +8,6 @@
     - Work on some of my personal projects
     - Learn video game development
     - Write a blog
-    - Build a portfolio
-    - Write a book
 - ⚡ Fun fact: I love visual media. Movies, TV shows, comics, anime, fine and abstract art, I love it all!
 
 

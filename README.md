@@ -54,3 +54,6 @@
 <a href="https://discordapp.com/" title="Discord"><img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="21px" height="21px"></a>
 <a href="https://slack.com/" title="slack"><img src="https://github.com/get-icon/geticon/raw/master/icons/slack-icon.svg" alt="slack" width="21px" height="21px"></a>
 <a href="https://cassandra.apache.org/" title="Cassandra"><img src="https://github.com/get-icon/geticon/raw/master/icons/cassandra.svg" alt="Cassandra" width="21px" height="21px"></a>
+
+---
+<img align="left" alt="Pwaters90 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pwaters90&show_icons=true&hide_border=true&count_private=true&theme=onedark">

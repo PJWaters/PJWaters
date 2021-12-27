@@ -3,7 +3,13 @@
 - 🔭 I just launched my first boilerplate: [Coo - F.A.R.M Stack boilerplate](https://github.com/Pwaters90/Coo)!
 - 🌱 I’m currently learning everything and anything.
 - 👯 I’m looking to collaborate with other developers 🤝
-- 🥅 2022 Goals: Build out my F.A.R.M boilerplate, work on some of my personal projects and learn video game development.
+- 🥅 2022 Goals: 
+    - Build out my F.A.R.M boilerplate
+    - Work on some of my personal projects
+    - Learn video game development
+    - Write a blog
+    - Build a portfolio
+    - Write a book
 - ⚡ Fun fact: I love visual media. Movies, TV shows, comics, anime, fine and abstract art, I love it all!
 
 

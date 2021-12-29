@@ -1,6 +1,6 @@
 ### Hi there, I'm Peter and I'm a Fullstack developer. 
 
-- 🔭 I just launched my first boilerplate: [Coo - F.A.R.M Stack boilerplate](https://github.com/Pwaters90/Coo)!
+- 🔭 I just launched my first boilerplate: [Coo - F.A.R.M Stack boilerplate](https://github.com/PJWaters/Coo)!
 - 🌱 I’m currently learning everything and anything.
 - 👯 I’m looking to collaborate with other developers 🤝
 - 🥅 2022 Goals: 
@@ -60,9 +60,9 @@
 <a href="https://cassandra.apache.org/" title="Cassandra"><img src="https://github.com/get-icon/geticon/raw/master/icons/cassandra.svg" alt="Cassandra" width="21px" height="21px"></a>
 
 ---
-<img align="left" alt="Pwaters90 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pwaters90&show_icons=true&hide_border=true&count_private=true&theme=radical">
-<img align="left" alt="Pwaters Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pwaters90&langs_count=8&theme=radical&hide_border=true&count_private=true">
+<img align="left" alt="Pwaters90 Github Stats" src="https://github-readme-stats.vercel.app/api?username=PJWaters&show_icons=true&hide_border=true&count_private=true&theme=radical">
+<img align="left" alt="Pwaters Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJWaters&langs_count=8&theme=radical&hide_border=true&count_private=true">
 
-<img align="left" alt="Pwaters90 Github streak" src="http://github-readme-streak-stats.herokuapp.com?user=Pwaters90&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D">
+<img align="left" alt="Pwaters90 Github streak" src="http://github-readme-streak-stats.herokuapp.com?user=PJWaters&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D">
 
 
